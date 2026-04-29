@@ -13,4 +13,4 @@ Imports: devtools,dichromat,fields,ggplot2,stats,terra,viridis
 Suggests: knitr
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2023-07-10 11:06:03 UTC; sandrasigismondi
+Packaged: 2026-04-26 11:06:03 UTC; sandrasigismondi
